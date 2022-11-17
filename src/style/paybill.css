@@ -1,0 +1,11 @@
+.PayBill{
+    background-size: cover;
+    background-color: white;
+    height: 100vh;
+}
+
+.fetch-btn{
+    background-color: gold;
+    border-radius: 15px;
+    margin: 10px;
+}
